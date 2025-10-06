@@ -1,0 +1,7 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - tkinter (GUI framework)
+# - math (mathematical operations)
+# - tkinter.colorchooser (color picker dialog)
+
+# Python 3.6+ is required
